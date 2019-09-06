@@ -1,0 +1,17 @@
+/*
+
+/*/
+
+!.gitignore
+!README.md
+
+# Include the /Boids/ folder
+!Boids/
+
+# Ignore everything inside project folder
+Boids/*
+
+# Select which folders become included
+!Boids/Assets/
+!Boids/ProjectSettings/
+!Boids/Packages
